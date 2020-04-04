@@ -12,3 +12,5 @@ end
 group :test do
   gem "rspec"
 end
+
+gem 'nokogiri', :git => 'login@example.com:some-user-account/some-private-gem.git'
